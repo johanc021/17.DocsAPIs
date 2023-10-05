@@ -322,3 +322,15 @@ Abrir por navegador o postman
 http://localhost:8080/api/loggerTest
 
 debe crear los registros de acuerdo al logger
+
+---
+
+---
+
+---
+
+Petición GET - Docs APIs
+
+http://localhost:8080/api/docs
+
+Muestra la documentacion de las APIs con swagger.
